@@ -1,0 +1,6 @@
+title,company,location,description,skills,min_experience,max_experience
+Software Engineer,TechCorp,New York,Develop web applications using React and Node.js,python,javascript,react,2,5
+Data Scientist,DataInc,San Francisco,Analyze large datasets and build ML models,python,sql,machine learning,3,7
+Frontend Developer,WebCo,Remote,Create responsive user interfaces,react,javascript,css,1,4
+Backend Engineer,CloudSys,Seattle,Build scalable APIs and microservices,python,nodejs,sql,3,6
+DevOps Engineer,InfraTech,Austin,Manage CI/CD pipelines and cloud infrastructure,aws,docker,kubernetes,2,5
